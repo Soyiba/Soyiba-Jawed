@@ -1,8 +1,8 @@
 # Profile
 
-<div align="text-justify">
- An energetic, motivated and analytical researcher motivated to work in a dynamic, progressive and growth-oriented organization with the job responsibilities that requires creativity and teamwork to enhance and utilize career experience and to develop new abilities leading to rapid upward mobility. Ensures a quality research output by adopting innovative and sophisticated methods of work and intends to impart this work culture to her colleagues in an organization that will inspire the organization to perform well.
-</div>
+- ORCID:                    0000-0002-9984-3889
+- Pakistan Engineering Council (PEC) Number:	COMP/3974
+
 
 # EXPERIENCE
 
