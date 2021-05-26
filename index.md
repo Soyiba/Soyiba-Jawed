@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Soyiba/Soyiba-Jawed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+</head>
+<body>
+
+<h1>Profile</h1>
+
+<div>An energetic, motivated and analytical researcher motivated to work in a dynamic, progressive and growth-oriented organization with the job responsibilities that requires 
+creativity and teamwork to enhance and utilize career experience and to develop new abilities leading to rapid upward mobility. Ensures a quality research output by adopting 
+innovative and sophisticated methods of work and intends to impart this work culture to her colleagues in an organization that will inspire the organization to perform well.'</div>
+
+
+
+</body>
+</html>
 
 ### Markdown
 
